@@ -25,9 +25,8 @@ Notebooks can be used:
 * as *executable teaching materials* (e.g. `BAD days`_ tutorials);
 * as `runnable journal papers`_?
 
-Jupyter itself is web application that 
+Jupyter itself is a web application that 
 interprets, runs and renders Notebooks.
-You interact with it by 
 As you interact with it by just connecting from your web browser
 the Jupyter server software can be running on 
 your local machine or
